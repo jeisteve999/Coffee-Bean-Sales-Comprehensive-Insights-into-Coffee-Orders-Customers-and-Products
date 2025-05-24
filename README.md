@@ -137,7 +137,6 @@ Power Bi
   <img src="https://github.com/jeisteve999/Coffee-Bean-Sales-Comprehensive-Insights-into-Coffee-Orders-Customers-and-Products/blob/main/Coffeep5.png?raw=true" width="600">
   <br><em>Coffeep5 - Power BI Dashboard 5</em>
 </p>
----
 
 
 📝 Final Presentation
@@ -152,5 +151,4 @@ https://github.com/jeisteve999/Coffee-Bean-Sales-Comprehensive-Insights-into-Cof
 This project explores real-world sales data to identify trends and improve business decisions through data-driven insights using Excel, Power BI, and SQL.
 
 
----
 
