@@ -84,7 +84,7 @@ This project includes an interactive dashboard built in Power BI to visualize co
 
 ---
 
-## 🖼️ Dashboard Screenshots (optional)
+## 🖼️ Dashboard Screenshots
 
 You can include screenshots of your dashboards in a `/screenshots` folder if you'd like to show a preview.
 
