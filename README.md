@@ -67,6 +67,7 @@ This is my second data analysis project. It analyzes coffee bean sales data to u
 
 ### 🗃️ SQL Script
 
+- 📄 [Download SQL Analysis Script (.sql)](Coffee Sales Dataset – SQL Data Cleaning and Preparation) (https://github.com/jeisteve999/Coffee-Bean-Sales-Comprehensive-Insights-into-Coffee-Orders-Customers-and-Products/blob/main/sql_data_cleaning_Coffee_proyect.sql)
 - 📄 [Download SQL Analysis Script (.sql)](https://github.com/jeisteve999/Coffee-Bean-Sales-Comprehensive-Insights-into-Coffee-Orders-Customers-and-Products/blob/main/SQLproject2.sql)
 
 ### 📊 Dashboards
